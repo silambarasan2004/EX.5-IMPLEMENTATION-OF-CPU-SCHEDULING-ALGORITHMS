@@ -67,7 +67,7 @@ printf("\n Average waiting time is %5.2f\n average tat is%5.2
 ```
 
 ### OUTPUT:
-![1](https://github.com/Divya110205/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/119404855/086806fe-c632-4d5b-91b7-3276ced13ba5)
+![p11](https://github.com/silambarasan2004/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/119559917/1225f4d7-e367-40c5-af99-fcf942de1781)
 
 ### RESULT: 
 
@@ -157,7 +157,7 @@ printf("\nAverage turn around time is %5.2f",att);
 ```
 
 ### OUTPUT:
-![2](https://github.com/Divya110205/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/119404855/f4519161-2138-44d8-a47f-7291f069eb71)
+![p12](https://github.com/silambarasan2004/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/119559917/f400ed9c-2591-4d9d-8a4a-13332952aa0f)
 
 ### RESULT: 
 
@@ -271,7 +271,7 @@ int main() {
 ```
 
 ### OUTPUT:
-![3](https://github.com/Divya110205/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/119404855/00c84c40-d150-4713-a6d3-9401cfaaecfc)
+![p13](https://github.com/silambarasan2004/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/119559917/86636799-ad4d-410c-b7f2-ff73d95e6979)
 
 ### RESULT: 
 
@@ -411,8 +411,8 @@ printf("\nAvg turn around time is %5.2f",atat);
 }
 ```
 
-### OUTPUT:
-![4](https://github.com/Divya110205/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/119404855/dba7938b-b7ce-45cb-96cb-e5637e7d0074)
+### OUTPUT
+![p14](https://github.com/silambarasan2004/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/119559917/0fb2c08e-f71c-49b3-8732-db14baab7c72)
 
 ### RESULT:
 
@@ -510,7 +510,7 @@ printf("The average turn around time is: %5.2f",atat);
 ```
 
 ### OUTPUT:
-![5](https://github.com/Divya110205/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/119404855/9784ed0f-97a3-4d33-86d9-06548a0d2c11)
+![p15](https://github.com/silambarasan2004/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/119559917/b2a3be5d-f364-44ae-bb3f-e16da910f1b1)
 
 ### RESULT:
 
@@ -665,7 +665,7 @@ int main() {
 }
 ```
 ### OUTPUT:
-![6](https://github.com/Divya110205/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/119404855/6941d816-e6cc-4a22-9f29-2bc727916063)
+![p16](https://github.com/silambarasan2004/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/119559917/1dd5805f-5b46-48ca-a5fb-d7398a17b450)
 
 ### RESULT: 
 
